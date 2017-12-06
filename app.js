@@ -8,7 +8,7 @@ if(twin.toUpperCase() === 'YES' || twin.toLowerCase() === 'y') {
 } else if(twin.toUpperCase() === 'NO' || twin.toLowerCase() === 'n') {
   alert('Wrong! She has a twin sister.');
 } else {
-  alert('Sorry, I didn\'t recognize your question.')
+  alert('Sorry, I didn\'t recognize your answer.')
 }
 
 //Does Bessie drive a Range Rover?
@@ -20,7 +20,7 @@ if(drive.toUpperCase() === 'NO' || drive.toLowerCase() === 'n') {
 } else if(drive.toUpperCase() === 'YES' || drive.toLowerCase() === 'y') {
   alert('Wrong! That car is way too expensive!');
 } else {
-  alert('Sorry, I didn\'t recognize your question.')
+  alert('Sorry, I didn\'t recognize your answer.')
 }
 
 //Has Bessie ever traveled outside of the country?
@@ -32,7 +32,7 @@ if(travel.toUpperCase() === 'YES' || travel.toLowerCase() === 'y') {
 } else if(travel.toUpperCase() === 'NO' || travel.toLowerCase() === 'n') {
   alert('WRONG! She\'s been to The Phillpines and Canada.');
 } else {
-  alert('Sorry, I didn\'t recognize your question.')
+  alert('Sorry, I didn\'t recognize your answer.')
 }
 
 //Was Bessie born in Seattle?
@@ -44,7 +44,7 @@ if(born.toUpperCase() === 'YES' || born.toLowerCase() === 'y') {
 } else if(born.toUpperCase() === 'NO' || born.toLowerCase() === 'n') {
   alert('You guessed wrong, she was born at UWMC.');
 } else {
-  alert('Sorry, I didn\'t recognize your question.')
+  alert('Sorry, I didn\'t recognize your answer.')
 }
 
 //Is Bessie's favorite dog the Belgium Malinois?
@@ -56,5 +56,5 @@ if(drive.toUpperCase() === 'NO' || drive.toLowerCase() === 'n') {
 } else if(drive.toUpperCase() === 'YES' || drive.toLowerCase() === 'y') {
   alert('No way! She LOVES corgis.');
 } else {
-  alert('Sorry, I didn\'t recognize your question.')
+  alert('Sorry, I didn\'t recognize your answer.')
 }
